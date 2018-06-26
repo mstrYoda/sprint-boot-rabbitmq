@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example</groupId>
-	<artifactId>denemeconsumer</artifactId>
+	<artifactId>consumer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>denemeconsumer</name>
-	<description>Demo project for Spring Boot</description>
+	<name>consumer</name>
+	<description>Sample project for Spring Boot Rabbitmq Consumer - Publisher</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
